@@ -4,6 +4,8 @@ A domain specific information retrieval system using vector space model
 # Language
 Python v3.6
 
+# Pre-processing
+Pre_processing.py took 30 minutes to process thedata and resulted in creation of 3 .npy files that are used by Query_processing.py at run time.
+
 # Setting it up
-1. Run Pre_processing.py (takes around 30 min to process the data)
-2. Run Query_processing.py
+Run Query_processing.py and type in your query to get the top 10 most relevant news articles.
