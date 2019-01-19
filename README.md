@@ -4,6 +4,9 @@ A domain specific information retrieval system using vector space model
 # Language
 Python v3.6
 
+# Corpus
+News articles from Kaggle.com 
+
 # Dependencies
 1. nltk 
 2. tkinter
