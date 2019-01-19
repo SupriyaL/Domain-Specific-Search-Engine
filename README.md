@@ -16,3 +16,6 @@ Pre_processing.py took 30 minutes to process thedata and resulted in creation of
 
 # Setting it up
 Run Query_processing.py and type in your query to get the top 10 most relevant news articles.
+
+# Other Contributors
+Divyang Vashi (div338)
